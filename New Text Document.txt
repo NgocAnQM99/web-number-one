@@ -1,0 +1,27 @@
+
+
+header- top :
+  cao 100 px 
+	mau nen # 272f54
+
+logo 
+- rong max 100 px ;
+
+menu : mau nen #a03f00
+banner : ao 250 px 
+
+news : 
+
+ +tieu de chinh : co chu 20 px ;
+			mau chu # 272f54 " 
+
+ +tieu de bai viet : 
+co chu 16 px  :
+mau chu #a03f00
+  
++ mo ta bai viet : 
+co chu 13 px ;
+mau chu # 000 
+
+
+footer :  cao 50 px  :  mau nên #272f54
